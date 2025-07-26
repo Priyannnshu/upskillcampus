@@ -27,7 +27,7 @@ const Footer = () => {
               </p>
               <div className="share">
                 
-                <a href="https://in.linkedin.com/in/kriishna">
+                <a href="https://in.linkedin.com/in/priyanshu-shukla-b136b1326">
                   <i>{<TiSocialLinkedin />}</i>
                 </a>
               </div>
@@ -48,7 +48,7 @@ const Footer = () => {
                 <i>
                   <MdOutlineMarkEmailRead />
                 </i>
-                krishnarandom@gmail.com
+                priyanshurandom@gmail.com
               </a>
 
               <Link className="links">
@@ -93,7 +93,7 @@ const Footer = () => {
             </div>
           </div>
           <div className="credit">
-            Created By <span>Krishna </span> | All Right Reserved
+            Created By <span>Priyanshu </span> | All Right Reserved
           </div>
         </section>
       </footer>
